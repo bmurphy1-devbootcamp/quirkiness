@@ -17,7 +17,7 @@ h1 {
 
 h2 {
 	font-size: 1.5em;
-	color: #B4C34F;
+	color: #6C8CD5;
 }
 
 .btn {
@@ -55,7 +55,12 @@ ul.nav li a {
 #apple-fan img {
 	border: 8px solid #2A4480;
 	margin: 0 0 20px 0;
+}
 
+#apple-ny img{
+
+	border: 8px solid #2A4480;
+	margin: 10px 10px;
 }
 
 #drinks-be-spilled img {
@@ -63,13 +68,15 @@ ul.nav li a {
 }
 
 #copyright {
-	border-top: 8px solid #2A0400;
+	border-top: 4px solid #4671D5;
 	padding: 10px 0px;
 	margin: 15px 0px;
 	text-align: center;
 }
 
-
+#logo img{
+	border: 8px solid #FFFFFF;
+}
 
 
 
