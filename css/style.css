@@ -67,7 +67,8 @@ ul.nav li a {
 	border: 8px solid #2A4480;
 }
 
-#copyright {
+#footer {
+	background: #2A4480;
 	border-top: 4px solid #4671D5;
 	padding: 10px 0px;
 	margin: 15px 0px;
