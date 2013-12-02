@@ -22,7 +22,7 @@ h2 {
 
 .btn {
 	color: #FFFFFF;
-	background: #4671D5 url('img/texture.png') no-repeat right top;
+	background: #4671D5 no-repeat right top;
 	padding: 15px 30px;
 	margin: 40px 0px;
 	border-radius: 25px;
@@ -75,6 +75,7 @@ ul.nav li a {
 }
 
 #logo img{
+	margin-top: 20px;
 	border: 8px solid #FFFFFF;
 }
 
